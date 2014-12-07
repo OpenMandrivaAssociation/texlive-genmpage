@@ -6,7 +6,7 @@
 # catalog-version 0.3.1
 Name:		texlive-genmpage
 Version:	0.3.1
-Release:	8
+Release:	9
 Summary:	Generalization of LaTeX's minipages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/genmpage
